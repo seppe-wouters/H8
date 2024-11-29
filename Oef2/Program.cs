@@ -21,6 +21,7 @@ namespace Oef2
             
             return random;
         }
+        
         static void Main(string[] args)
         {
             Console.WriteLine(genereerRandom(12,56));
