@@ -1,0 +1,14 @@
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\opgave10h8\bin\Debug\net6.0\oefening1.exe
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\opgave10h8\bin\Debug\net6.0\oefening1.deps.json
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\opgave10h8\bin\Debug\net6.0\oefening1.runtimeconfig.json
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\opgave10h8\bin\Debug\net6.0\oefening1.dll
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\opgave10h8\bin\Debug\net6.0\oefening1.pdb
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\opgave10h8\obj\Debug\net6.0\oefening1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\opgave10h8\obj\Debug\net6.0\oefening1.AssemblyInfoInputs.cache
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\opgave10h8\obj\Debug\net6.0\oefening1.AssemblyInfo.cs
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\opgave10h8\obj\Debug\net6.0\oefening1.csproj.CoreCompileInputs.cache
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\opgave10h8\obj\Debug\net6.0\oefening1.dll
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\opgave10h8\obj\Debug\net6.0\refint\oefening1.dll
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\opgave10h8\obj\Debug\net6.0\oefening1.pdb
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\opgave10h8\obj\Debug\net6.0\oefening1.genruntimeconfig.cache
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\opgave10h8\obj\Debug\net6.0\ref\oefening1.dll

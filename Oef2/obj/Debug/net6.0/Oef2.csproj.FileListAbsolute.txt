@@ -1,0 +1,14 @@
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\Oef2\bin\Debug\net6.0\Oef2.exe
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\Oef2\bin\Debug\net6.0\Oef2.deps.json
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\Oef2\bin\Debug\net6.0\Oef2.runtimeconfig.json
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\Oef2\bin\Debug\net6.0\Oef2.dll
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\Oef2\bin\Debug\net6.0\Oef2.pdb
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\Oef2\obj\Debug\net6.0\Oef2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\Oef2\obj\Debug\net6.0\Oef2.AssemblyInfoInputs.cache
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\Oef2\obj\Debug\net6.0\Oef2.AssemblyInfo.cs
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\Oef2\obj\Debug\net6.0\Oef2.csproj.CoreCompileInputs.cache
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\Oef2\obj\Debug\net6.0\Oef2.dll
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\Oef2\obj\Debug\net6.0\refint\Oef2.dll
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\Oef2\obj\Debug\net6.0\Oef2.pdb
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\Oef2\obj\Debug\net6.0\Oef2.genruntimeconfig.cache
+C:\Users\seppe.wouters\Documents\informatica\opgave10h8\Oef2\obj\Debug\net6.0\ref\Oef2.dll

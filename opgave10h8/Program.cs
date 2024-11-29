@@ -20,10 +20,7 @@
             Console.WriteLine($"kleinste getal: {getallen.Min()}");
             Console.WriteLine($"grootste getal: {getallen.Max()}");
 
-            for (int i = 0; i < getallen.Length; i++)
-            {
-                
-            }
+           
         }
     }
 }
